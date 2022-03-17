@@ -1,0 +1,17 @@
+.header-container {
+  color: #234a1d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 20px;
+  background-color: #ffffff;
+  height: 50px;
+}
+
+.heading-text {
+  margin: 10px;
+  color: #234a1d;
+  font-weight: 700;
+}
+
+/*# sourceMappingURL=header.css.map */

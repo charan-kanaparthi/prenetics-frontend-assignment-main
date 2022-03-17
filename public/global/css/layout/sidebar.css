@@ -1,0 +1,30 @@
+.sidebar-nav ul {
+  list-style: none;
+  color: white;
+  /* margin: 0; */
+  padding: 0;
+}
+
+.sidebar-nav ul li {
+  width: 100%;
+  padding: 10px 20px;
+  margin: 0;
+}
+.sidebar-nav ul li:hover {
+  background-color: #6fc163;
+  font-weight: bolder;
+}
+
+.sidebaractive {
+  background-color: #54b047;
+  font-weight: bolder;
+}
+
+.brand-name {
+  font-size: 40px;
+  color: #54b047;
+  padding: 10px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=sidebar.css.map */
