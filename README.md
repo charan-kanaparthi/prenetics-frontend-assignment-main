@@ -2,7 +2,7 @@
 
 ### Start the application
 
-- Clone the Application git clone `https://github.com/charan-kanaparthi/prenetics-frontend-assignment-main`
+- Clone the Application git clone `https://github.com/charan-kanaparthi/prenetics-frontend-assignment-main.git`
 - Install the dependencies `npm install`
 - Start the application `npm run dev`
 
