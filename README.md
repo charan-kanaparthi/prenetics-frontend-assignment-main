@@ -34,4 +34,22 @@ As a prerequisite, you should follow the following instructions to set up and ru
     * patient ID
 6. For organisation Circle, the Patient Management page can also able to search by patient ID.
 
+### Project Structure
+
+| Name | Description |
+| ------------------------ | --------------------------------------------------------------------------------------------- |
+| **src**                  | Contains your source code that will be compiled to the build dir                               |
+| **src/components/**                | UI Components  |
+| **src/pages/**                       | We can also call this "features" if we break the pages based on what will be served in the browser|
+| **src/store/**               |  Contains slice and hooks |
+| **src/store/${page-name}/slice.ts               |  Contains slice configuration {state, action and reducers} |
+| **src/store/index.ts               |  Entry point for store configuration|
+| **src/styles/**               | SASS styles |
+| **src/types/**               | Schema or Types |
+| **src/utils/**               | Reusable utlity like api http client |
+| **src**/index.ts        | Entry point to your frontend app                                                               |
+| package.json             | File that contains npm dependencies
+| tsconfig.json            | Config settings for compiling server code written in TypeScript                               |
+| **node_modules**         | Contains all your npm dependencies                                                            |
+
 
