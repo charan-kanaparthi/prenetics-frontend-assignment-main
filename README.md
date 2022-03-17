@@ -23,7 +23,7 @@ As a prerequisite, you should follow the following instructions to set up and ru
     * result date
     * result value
 4.  Search functionality for the Patient Management is implement and can search page by the following
-    * * patient name
+    * patient name
     * sample barcode
     * activation date
     * result date
