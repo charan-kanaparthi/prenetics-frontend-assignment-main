@@ -13,6 +13,7 @@ As a prerequisite, you should follow the following instructions to set up and ru
 2. Read README.md and prepare your development environment 
 3. `docker-compose up -d --build` – This will build and set up swagger, postgres and service
 4. Go to `http://localhost:9080/swagger/` to interact with the APIs
+5. This is the main endpoint for this challenge and I have added extra mock data in search.ts to implement search and pagination
 
 ## Functionality
 1. Select your Organization from header dropdown
